@@ -3,6 +3,7 @@
     margin: 0;
     box-sizing: border-box;
 }
+
 .bar{
     background-color: #4ea1ff;
     background-image: url("../img/pattern.png");
@@ -16,3 +17,10 @@
     margin-left: 10px;
 }
 
+.article-bullets-point{
+    margin-left: 20px;
+}
+
+#table{
+    width: 100%;
+}
