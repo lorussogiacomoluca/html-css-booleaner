@@ -60,3 +60,9 @@ main{
 .highlited{
     background-color: yellow;
 }
+
+/* -- Article Bullet Points -- */
+.article-bullets-point{
+    margin-left: 20px;
+    margin-bottom: 15px;
+}
