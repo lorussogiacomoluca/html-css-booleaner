@@ -66,3 +66,36 @@ main{
     margin-left: 20px;
     margin-bottom: 15px;
 }
+
+/* -- Article Table -- */
+.article-table{
+    margin-bottom: 15px;
+}
+
+#table{
+    width: 100%;
+    margin-bottom: 15px;
+    border-collapse: collapse;
+
+}
+
+#table th{
+    background-color: #4ea1ff;
+    color: #fff;
+}
+
+#table tr:nth-child(odd){
+    background-color: #b1e6f2;
+}
+
+#table #column-1{
+    width: 25%;
+}
+
+#table #column-2{
+    width: 25%;
+}
+
+#table #column-3{
+    width: 50%;
+}
