@@ -4,6 +4,8 @@
     box-sizing: border-box;
 }
 
+/* ********* Header section ********* */
+
 .bar{
     background-color: #4ea1ff;
     background-image: url("../img/pattern.png");
@@ -17,10 +19,8 @@
     margin-left: 10px;
 }
 
-.article-bullets-point{
-    margin-left: 20px;
+/* ********* Article Section ********* */
+main{
+    margin: 5px;
 }
 
-#table{
-    width: 100%;
-}
