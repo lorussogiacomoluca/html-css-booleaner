@@ -51,6 +51,11 @@ main{
     font-size: 9px;
 }
 
+/* -- Article Text -- */
+.article-text{
+    margin-bottom: 15px;
+}
+
 /* -- Article Highlited -- */
 .highlited{
     background-color: yellow;
