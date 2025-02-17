@@ -99,3 +99,32 @@ main{
 #table #column-3{
     width: 50%;
 }
+
+/* ********* Suggestions Section ********* */
+footer{
+    margin: 5px;
+}
+
+.suggestions-title{
+    color: #808080;
+    font-size: 12px;
+    font-weight: 900;
+    margin-bottom: 15px;
+}
+
+footer #suggestions-card-1{
+    background-image: url("../img/monitor.jpg");
+    height: 150px;
+    width: 150px;
+    color: #fff;
+    margin-bottom: 15px;
+    padding: 4px 7px;
+}
+
+footer #suggestions-card-2{
+    background-image: url("../img/graph.jpg");
+    height: 150px;
+    width: 150px;
+    color: #fff;
+    padding: 4px 7px;
+}
