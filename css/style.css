@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.bar{
+    background-color: #4ea1ff;
+    background-image: url("../img/pattern.png");
+    background-size: 10%;
+    
+    
+}
+
+.logo{
+    width: 175px;
+}
